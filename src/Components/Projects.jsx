@@ -173,7 +173,7 @@ const Projects = () => {
       description:
         "The personal portfolio website is built using React.js for a fast and interactive user interface, Node.js for backend logic, Tailwind CSS for modern and responsive styling, and Framer Motion for smooth animations. EmailJS integration enables seamless contact form submissions, allowing direct email communication without backend email servers. This combination creates a professional, visually appealing, and highly functional portfolio to showcase skills and projects effectively.",
       languages: ["React", "NodeJS", "TailwindCSS"],
-      url: "https://yourportfolio.com",
+      url: "https://github.com/Yasasmie/Yasasmi-Portfolio.git",
     },
     {
       title: "Aromi Site",
@@ -181,7 +181,7 @@ const Projects = () => {
       description:
         "Aromi site is a specialized website for Aromi Fashion Academy, focused on pattern making and fashion designing. It is developed using React.js for a dynamic frontend experience, Node.js for backend server logic, and CSS for styling to create a modern, responsive platform tailored to the needs of fashion students and instructors.",
       languages: ["React", "NodeJS", "CSS3"],
-      url: "https://github.com/Yasasmie/Aromi",
+      url: "https://github.com/Yasasmie/Aromi.git",
     },
     {
       title: "E-commerce Website",
